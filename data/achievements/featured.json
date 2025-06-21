@@ -1,0 +1,28 @@
+{
+  "achievements": [
+    {
+      "event": "Quest for Excellence 2024",
+      "title": "Director's Cup - Overall Champion",
+      "image": "https://placehold.co/400x300.png",
+      "aiHint": "trophy award"
+    },
+    {
+      "event": "Quest for Excellence 2024",
+      "title": "Best in Academic Category",
+      "image": "https://placehold.co/400x300.png",
+      "aiHint": "students studying"
+    },
+    {
+      "event": "Quest for Excellence 2024",
+      "title": "Best in Cultural Category",
+      "image": "https://placehold.co/400x300.png",
+      "aiHint": "cultural performance"
+    },
+    {
+      "event": "Quest for Excellence 2023",
+      "title": "2nd Place - Overall Placing",
+      "image": "https://placehold.co/400x300.png",
+      "aiHint": "silver medal"
+    }
+  ]
+} 
