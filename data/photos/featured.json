@@ -1,17 +1,17 @@
 {
   "photos": [
     {
-      "src": "/images/featured-photo-1.png",
+      "src": "https://raw.githubusercontent.com/EXPLICIT-PUPSPC/explicit-website-data/refs/heads/main/images/p-1.jpg",
       "alt": "Students at a hackathon",
       "aiHint": "students hackathon"
     },
     {
-      "src": "/images/featured-photo-2.png",
+      "src": "https://raw.githubusercontent.com/EXPLICIT-PUPSPC/explicit-website-data/refs/heads/main/images/p-2.jpg",
       "alt": "Guest speaker at a symposium",
       "aiHint": "conference speaker"
     },
     {
-      "src": "/images/featured-photo-3.png",
+      "src": "https://raw.githubusercontent.com/EXPLICIT-PUPSPC/explicit-website-data/refs/heads/main/images/p-3.jpg",
       "alt": "Members networking at an event",
       "aiHint": "networking event"
     }
