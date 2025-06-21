@@ -1,0 +1,10 @@
+{
+  "featuredEvent": {
+    "title": "Annual Tech Symposium",
+    "date": "2024-10-26",
+    "description": "Join us for a full day of talks and workshops from industry leaders. This is a premier event for all tech enthusiasts.",
+    "image": "/images/event-tech-symposium.png",
+    "aiHint": "technology conference",
+    "slug": "annual-tech-symposium"
+  }
+} 
