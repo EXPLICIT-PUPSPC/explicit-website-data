@@ -1,19 +1,19 @@
 {
   "carouselImages": [
     {
-      "src": "https://placehold.co/500x500.png",
+      "src": "https://raw.githubusercontent.com/EXPLICIT-PUPSPC/explicit-website-data/refs/heads/main/images/hero-1.jpg",
       "alt": "Event photo 1",
-      "aiHint": "students event"
+      "aiHint": ""
     },
     {
-      "src": "https://placehold.co/500x500.png",
+      "src": "https://raw.githubusercontent.com/EXPLICIT-PUPSPC/explicit-website-data/refs/heads/main/images/hero-2.jpg",
       "alt": "Event photo 2", 
-      "aiHint": "tech conference"
+      "aiHint": ""
     },
     {
-      "src": "https://placehold.co/500x500.png",
+      "src": "https://raw.githubusercontent.com/EXPLICIT-PUPSPC/explicit-website-data/refs/heads/main/images/hero-3.jpg",
       "alt": "Event photo 3",
-      "aiHint": "hackathon event"
+      "aiHint": ""
     }
   ]
 } 
