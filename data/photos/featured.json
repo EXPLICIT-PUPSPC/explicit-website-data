@@ -1,0 +1,19 @@
+{
+  "photos": [
+    {
+      "src": "/images/featured-photo-1.png",
+      "alt": "Students at a hackathon",
+      "aiHint": "students hackathon"
+    },
+    {
+      "src": "/images/featured-photo-2.png",
+      "alt": "Guest speaker at a symposium",
+      "aiHint": "conference speaker"
+    },
+    {
+      "src": "/images/featured-photo-3.png",
+      "alt": "Members networking at an event",
+      "aiHint": "networking event"
+    }
+  ]
+} 
