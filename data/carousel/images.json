@@ -1,0 +1,19 @@
+{
+  "carouselImages": [
+    {
+      "src": "https://placehold.co/500x500.png",
+      "alt": "Event photo 1",
+      "aiHint": "students event"
+    },
+    {
+      "src": "https://placehold.co/500x500.png",
+      "alt": "Event photo 2", 
+      "aiHint": "tech conference"
+    },
+    {
+      "src": "https://placehold.co/500x500.png",
+      "alt": "Event photo 3",
+      "aiHint": "hackathon event"
+    }
+  ]
+} 
